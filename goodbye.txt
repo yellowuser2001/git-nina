@@ -1,0 +1,2 @@
+print("goodbye baby!")
+print("goodbye vse")
